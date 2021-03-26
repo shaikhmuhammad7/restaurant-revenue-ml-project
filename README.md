@@ -1,1 +1,1 @@
-# restaurant-revenue-ml-project
+# Restaurant Revenue Prediction
