@@ -20,9 +20,9 @@ The notebook covers:
 - The repository contains restaurant-revenue-prediction.ipynb. Full workflow notebook   
 
 ## Model Performance
-Model: Random Forest Regressor
-RMSE for training set: 0.16
-RMSE for validation set: 0.33
+- Model: Random Forest Regressor
+- RMSE for training set: 0.16
+- RMSE for validation set: 0.33
 
 ## Dataset
 
